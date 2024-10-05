@@ -1,0 +1,19 @@
+
+Question 1 is Selected 22:31:39
+-----------------------------------------------------------------------------------------
+----Q1 Mean Function is Called. 22:31:41
+----Q1 White And Black Pixels Function is Called. 22:31:42
+----Q1 Avg Black Pixels in Row Function is Called. 22:31:43
+----Q1 Image is Converted into Negative. 22:31:44
+----Q1 All Functions are Called. 22:31:45
+----Q1 Question 1 is terminated. 22:31:47
+-----------------------------------------------------------------------------------------
+Question 2 is Selected 22:31:49
+----Q2 Row = 54 Col = 68 22:31:52
+----Q2 Image is saved as a connectedQueue.pgm 22:31:52
+----Q2 Question 3 is terminated. 22:31:52
+-----------------------------------------------------------------------------------------
+Question 3 is Selected 22:32:21
+----Q3 Row = 56 Col = 89 22:32:26
+----Q3 Image is saved as a connectedStack.pgm 22:32:26
+----Q3 Question 3 is terminated. 22:32:26
